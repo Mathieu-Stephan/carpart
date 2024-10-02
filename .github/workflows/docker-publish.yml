@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - master
-  # déso lulu 
-  #workflow_dispatch:
+
 
 jobs:
   build:
