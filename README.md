@@ -1,5 +1,4 @@
 
-```markdown
 # Gestion des Clients - CarPart API
 
 **Université de Bretagne Sud (UBS) - I.U.T de Vannes**  
